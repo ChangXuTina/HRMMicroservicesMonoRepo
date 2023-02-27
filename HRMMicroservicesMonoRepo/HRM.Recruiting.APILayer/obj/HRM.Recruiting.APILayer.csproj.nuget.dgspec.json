@@ -1,0 +1,227 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Recruiting.APILayer/HRM.Recruiting.APILayer.csproj": {}
+  },
+  "projects": {
+    "/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Recruiting.APILayer/HRM.Recruiting.APILayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Recruiting.APILayer/HRM.Recruiting.APILayer.csproj",
+        "projectName": "HRM.Recruiting.APILayer",
+        "projectPath": "/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Recruiting.APILayer/HRM.Recruiting.APILayer.csproj",
+        "packagesPath": "/Users/changxu/.nuget/packages/",
+        "outputPath": "/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Recruiting.APILayer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/changxu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Recruiting.ApplicationCore/HRM.Recruiting.ApplicationCore.csproj": {
+                "projectPath": "/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Recruiting.ApplicationCore/HRM.Recruiting.ApplicationCore.csproj"
+              },
+              "/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Recruiting.Infrastructure/HRM.Recruiting.Infrastructure.csproj": {
+                "projectPath": "/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Recruiting.Infrastructure/HRM.Recruiting.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Recruiting.ApplicationCore/HRM.Recruiting.ApplicationCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Recruiting.ApplicationCore/HRM.Recruiting.ApplicationCore.csproj",
+        "projectName": "HRM.Recruiting.ApplicationCore",
+        "projectPath": "/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Recruiting.ApplicationCore/HRM.Recruiting.ApplicationCore.csproj",
+        "packagesPath": "/Users/changxu/.nuget/packages/",
+        "outputPath": "/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Recruiting.ApplicationCore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/changxu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Recruiting.Infrastructure/HRM.Recruiting.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Recruiting.Infrastructure/HRM.Recruiting.Infrastructure.csproj",
+        "projectName": "HRM.Recruiting.Infrastructure",
+        "projectPath": "/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Recruiting.Infrastructure/HRM.Recruiting.Infrastructure.csproj",
+        "packagesPath": "/Users/changxu/.nuget/packages/",
+        "outputPath": "/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Recruiting.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/changxu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Recruiting.ApplicationCore/HRM.Recruiting.ApplicationCore.csproj": {
+                "projectPath": "/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Recruiting.ApplicationCore/HRM.Recruiting.ApplicationCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

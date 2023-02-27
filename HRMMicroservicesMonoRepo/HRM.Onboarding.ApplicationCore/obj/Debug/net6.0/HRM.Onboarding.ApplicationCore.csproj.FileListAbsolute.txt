@@ -1,0 +1,14 @@
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.ApplicationCore/bin/Debug/net6.0/HRM.Onboarding.ApplicationCore.deps.json
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.ApplicationCore/bin/Debug/net6.0/HRM.Onboarding.ApplicationCore.runtimeconfig.json
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.ApplicationCore/bin/Debug/net6.0/HRM.Onboarding.ApplicationCore.dll
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.ApplicationCore/bin/Debug/net6.0/HRM.Onboarding.ApplicationCore.pdb
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.ApplicationCore/obj/Debug/net6.0/HRM.Onboarding.ApplicationCore.csproj.AssemblyReference.cache
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.ApplicationCore/obj/Debug/net6.0/HRM.Onboarding.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.ApplicationCore/obj/Debug/net6.0/HRM.Onboarding.ApplicationCore.AssemblyInfoInputs.cache
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.ApplicationCore/obj/Debug/net6.0/HRM.Onboarding.ApplicationCore.AssemblyInfo.cs
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.ApplicationCore/obj/Debug/net6.0/HRM.Onboarding.ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.ApplicationCore/obj/Debug/net6.0/HRM.Onboarding.ApplicationCore.dll
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.ApplicationCore/obj/Debug/net6.0/refint/HRM.Onboarding.ApplicationCore.dll
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.ApplicationCore/obj/Debug/net6.0/HRM.Onboarding.ApplicationCore.pdb
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.ApplicationCore/obj/Debug/net6.0/HRM.Onboarding.ApplicationCore.genruntimeconfig.cache
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.ApplicationCore/obj/Debug/net6.0/ref/HRM.Onboarding.ApplicationCore.dll

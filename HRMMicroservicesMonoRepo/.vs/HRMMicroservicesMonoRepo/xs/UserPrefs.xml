@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{E570F7E4-4AFD-4528-A0FD-9F09E3D5E300}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HRM.Authentication.APILayer PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Authentication.Infrastructure/Respository/AccountRepository.cs" relfile="HRM.Authentication.Infrastructure/Respository/AccountRepository.cs" line="49" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HRM.Interview.APILayer PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HRM.Authentication.APILayer/Controllers/AccountController.cs">
+    <Files>
+      <File FileName="HRM.Authentication.APILayer/Controllers/AccountController.cs" Line="48" Column="75" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HRMMicroservicesMonoRepo" expanded="True">
+            <Node name="HRM.Authentication.APILayer" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="AccountController.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="HRM.Authentication.ApplicationCore" expanded="True">
+              <Node name="Contract" expanded="True">
+                <Node name="Repository" expanded="True" />
+                <Node name="Service" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="HRM.Authentication.Infrastructure" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Respository" expanded="True" />
+              <Node name="Service" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HRM.Onboarding.APILayer PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.HRM.Recruiting.APILayer PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+</Properties>

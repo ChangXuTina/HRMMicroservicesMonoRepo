@@ -1,0 +1,17 @@
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Interview.Infrastructure/obj/Debug/net6.0/HRM.Interview.Infrastructure.csproj.AssemblyReference.cache
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Interview.Infrastructure/obj/Debug/net6.0/HRM.Interview.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Interview.Infrastructure/obj/Debug/net6.0/HRM.Interview.Infrastructure.AssemblyInfoInputs.cache
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Interview.Infrastructure/obj/Debug/net6.0/HRM.Interview.Infrastructure.AssemblyInfo.cs
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Interview.Infrastructure/obj/Debug/net6.0/HRM.Interview.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Interview.Infrastructure/bin/Debug/net6.0/HRM.Interview.Infrastructure.deps.json
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Interview.Infrastructure/bin/Debug/net6.0/HRM.Interview.Infrastructure.runtimeconfig.json
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Interview.Infrastructure/bin/Debug/net6.0/HRM.Interview.Infrastructure.dll
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Interview.Infrastructure/bin/Debug/net6.0/HRM.Interview.Infrastructure.pdb
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Interview.Infrastructure/bin/Debug/net6.0/HRM.Interview.ApplicationCore.dll
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Interview.Infrastructure/bin/Debug/net6.0/HRM.Interview.ApplicationCore.pdb
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Interview.Infrastructure/obj/Debug/net6.0/HRM.Interview.Infrastructure.csproj.CopyComplete
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Interview.Infrastructure/obj/Debug/net6.0/HRM.Interview.Infrastructure.dll
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Interview.Infrastructure/obj/Debug/net6.0/refint/HRM.Interview.Infrastructure.dll
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Interview.Infrastructure/obj/Debug/net6.0/HRM.Interview.Infrastructure.pdb
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Interview.Infrastructure/obj/Debug/net6.0/HRM.Interview.Infrastructure.genruntimeconfig.cache
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Interview.Infrastructure/obj/Debug/net6.0/ref/HRM.Interview.Infrastructure.dll

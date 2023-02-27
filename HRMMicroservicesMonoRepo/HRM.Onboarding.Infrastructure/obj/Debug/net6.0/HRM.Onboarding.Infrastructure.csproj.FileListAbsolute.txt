@@ -1,0 +1,17 @@
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.Infrastructure/bin/Debug/net6.0/HRM.Onboarding.Infrastructure.deps.json
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.Infrastructure/bin/Debug/net6.0/HRM.Onboarding.Infrastructure.runtimeconfig.json
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.Infrastructure/bin/Debug/net6.0/HRM.Onboarding.Infrastructure.dll
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.Infrastructure/bin/Debug/net6.0/HRM.Onboarding.Infrastructure.pdb
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.Infrastructure/bin/Debug/net6.0/HRM.Onboarding.ApplicationCore.dll
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.Infrastructure/bin/Debug/net6.0/HRM.Onboarding.ApplicationCore.pdb
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.Infrastructure/obj/Debug/net6.0/HRM.Onboarding.Infrastructure.csproj.AssemblyReference.cache
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.Infrastructure/obj/Debug/net6.0/HRM.Onboarding.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.Infrastructure/obj/Debug/net6.0/HRM.Onboarding.Infrastructure.AssemblyInfoInputs.cache
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.Infrastructure/obj/Debug/net6.0/HRM.Onboarding.Infrastructure.AssemblyInfo.cs
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.Infrastructure/obj/Debug/net6.0/HRM.Onboarding.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.Infrastructure/obj/Debug/net6.0/HRM.Onboarding.Infrastructure.csproj.CopyComplete
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.Infrastructure/obj/Debug/net6.0/HRM.Onboarding.Infrastructure.dll
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.Infrastructure/obj/Debug/net6.0/refint/HRM.Onboarding.Infrastructure.dll
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.Infrastructure/obj/Debug/net6.0/HRM.Onboarding.Infrastructure.pdb
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.Infrastructure/obj/Debug/net6.0/HRM.Onboarding.Infrastructure.genruntimeconfig.cache
+/Users/changxu/Projects/HRMMicroservicesMonoRepo/HRM.Onboarding.Infrastructure/obj/Debug/net6.0/ref/HRM.Onboarding.Infrastructure.dll
